@@ -1,0 +1,5 @@
+# Ignore compiled files
+.venv
+__pycache__
+/myenv
+/frontend/node_modules
